@@ -907,7 +907,6 @@ table {
 	.price-block-wrapper{
 		flex-direction: column;
 	}
-	 
 }
 
 @media screen and (max-width: 819px){
